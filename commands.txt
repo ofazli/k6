@@ -1,0 +1,2 @@
+Debug mode -> k6 run --http-debug requests/getRequests.js
+Debug mode with response body -> k6 run --http-debug="full" requests/getRequests.js
